@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/github/followers/Schlickmann?label=follow&style=social" height="22" title="Follow me" />](https://github.com/Schlickmann) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juliani.schlickmann@gmail.com)
 
-<p align="center"> 
+<p align="left"> 
  <a>
    <img src="https://github-readme-stats.vercel.app/api?username=Schlickmann&show_icons=true&theme=graywhite" />
  </a>
