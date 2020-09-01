@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juliani-schlickmann-damasceno/)
+[<img src="https://img.shields.io/github/followers/Schlickmann?label=follow&style=social" height="22" title="Follow me" />](https://github.com/Schlickmann) 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juliani.schlickmann@gmail.com)
 
 <!--
 **Schlickmann/Schlickmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
