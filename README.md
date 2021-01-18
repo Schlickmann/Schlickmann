@@ -18,12 +18,12 @@
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/ruby-lang/ruby-lang-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>
    
   
 
