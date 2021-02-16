@@ -15,6 +15,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=schlickmann&theme=flat&no-frame=true&margin-w=30" />
 <br />
 <br />
+<hr />
 <h3>🛠 &nbsp; Tech Stack</h3>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
