@@ -11,7 +11,7 @@
 </p> 
 
 <br />
-<h3>🏆 Trophies</h3>
+<h3>🏆 &nbsp; Trophies</h3>
 
 <br />
 <img src="https://github-profile-trophy.vercel.app/?username=schlickmann&theme=flat&no-frame=true&margin-w=30" />
