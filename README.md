@@ -12,8 +12,9 @@
 
 <br />
 <h3>🏆 Trophies</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=schlickmann&theme=flat&no-frame=true&margin-w=30" />
+
 <br />
+<img src="https://github-profile-trophy.vercel.app/?username=schlickmann&theme=flat&no-frame=true&margin-w=30" />
 <br />
 <hr />
 <h3>🛠 &nbsp; Tech Stack</h3>
