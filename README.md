@@ -100,7 +100,7 @@ I'm a software developer passionate about building elegant, functional experienc
 | [**gobarber-api**](https://github.com/Schlickmann/gobarber-api) | Barbershop scheduling REST API | JavaScript |
 | [**gobarber-webapp**](https://github.com/Schlickmann/gobarber-webapp) | Barbershop scheduling web dashboard | JavaScript |
 | [**github-explorer**](https://github.com/schlickmann/github-explorer) | Repository finder for tracking favorite GitHub projects | JavaScript |
-| [**nubank-clone**](https://github.com/Schlickmann/nubank-clone) | Interface recreation of the Nubank mobile app | React Native |
+| [**nubank-clone**](https://github.com/Schlickmann/nubank-clone) | Interface recreation of the Nubank mobile app | JavaScript |
 | [**weather-app**](https://github.com/Schlickmann/weather-app) | Weather forecast app built with ReactJS | JavaScript |
 
 
