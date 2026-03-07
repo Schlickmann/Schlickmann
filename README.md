@@ -95,12 +95,14 @@ I'm a software developer passionate about building elegant, functional experienc
 
 | Project | Description | Stack |
 |---|---|---|
+| [**cv-object-detection**](https://github.com/schlickmann/cv-object-detection) | A minimal FastAPI service that runs YOLOv8 (Ultralytics) object detection | Python |
+| [**vercel-sdk-chat-ai**](https://github.com/schlickmann/vercel-sdk-chat-ai) | A chat interface built with the Vercel AI SDK | JavaScript |
 | [**nubank-clone**](https://github.com/Schlickmann/nubank-clone) | Interface recreation of the Nubank mobile app | JavaScript |
 | [**gobarber-api**](https://github.com/Schlickmann/gobarber-api) | Barbershop scheduling REST API | JavaScript |
 | [**gobarber-app**](https://github.com/Schlickmann/gobarber-app) | Barbershop scheduling mobile client | JavaScript |
 | [**gobarber-webapp**](https://github.com/Schlickmann/gobarber-webapp) | Barbershop scheduling web dashboard | JavaScript |
 | [**weather-app**](https://github.com/Schlickmann/weather-app) | Weather forecast app built with ReactJS | JavaScript |
-| [**be-the-hero**](https://github.com/Schlickmann/be-the-hero) | Platform for NGOs to share cases and find volunteers | JavaScript |
+
 
 ---
 
