@@ -80,13 +80,13 @@ I'm a software developer passionate about building elegant, functional experienc
 ### 📊 &nbsp; GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Schlickmann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=Schlickmann&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=light_github"/>
   &nbsp;
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Schlickmann&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs?username=Schlickmann&layout=compact&langs_count=8&theme=light_github"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Schlickmann&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Schlickmann" alt="GitHub Streak" /></a>
 </p>
 
 ---
