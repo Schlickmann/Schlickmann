@@ -19,7 +19,7 @@ I'm a software developer passionate about building elegant, functional experienc
 - 🤖 &nbsp; Exploring how AI reshapes what software can do
 - 🌱 &nbsp; Always leveling up across the JS/TS ecosystem
 - 💬 &nbsp; Ask me about **React, Node.js, TypeScript, or Python**
-- 📫 &nbsp; Reach me at **julian.i.schlickmann@gmail.com**
+- 📫 &nbsp; Reach me at **schlickmann.julian@gmail.com**
 - ⚡ &nbsp; Fun fact: I once built a Nubank clone just to learn how fintech UIs work
 
 ---
