@@ -86,7 +86,7 @@ I'm a software developer passionate about building elegant, functional experienc
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Schlickmann" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Schlickmann" />
 </p>
 
 ---
